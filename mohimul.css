@@ -1,0 +1,110 @@
+* {
+
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+header img {
+    height: 250px;
+    width: auto;
+    border-radius: 10px;
+    border: 3px solid rgb(94, 41, 41);
+    margin: 20px;
+
+}
+
+.box h2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 12%;
+    left: 25%;
+
+}
+
+.id h2 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 8%;
+    left: 33%;
+
+}
+
+.pm h3 {
+
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 13.5%;
+    left: 50%;
+
+}
+
+.am h3 {
+
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 16.5%;
+    left: 52.5%;
+
+}
+
+.fb h2 a {
+
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 19%;
+    left: 39%;
+
+}
+
+.ed h3 {
+
+
+    margin-left: 5px;
+    font-size: 20px;
+    
+}
+
+.ba b {
+
+    font-size: 25px;
+    
+
+}
+
+.ac h3 {
+
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.mnt b {
+    font-size: 20px;
+
+
+}
+
+.mnt b {
+
+    font-size: 20px;
+
+}
+
+.bbs {
+
+
+    font-size: 20px;
+}
+
+.sk {
+
+    font-size: 20px;
+    margin-left: 8px;
+}
+
+.skl {
+    font-size: 20px;
+
+
+}
